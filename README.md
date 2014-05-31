@@ -1,5 +1,5 @@
-Code Club World
-===============
+Code Club Vietnam
+=================
 
 A worldwide network of coding clubs for children.
 
